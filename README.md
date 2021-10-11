@@ -4,7 +4,7 @@
 
 
 <h3>
-    <code style="color: orange;">Hierarchical Clustering Dashboard</code>
+    <code style="color: orange;">Hierarchical Clustering with Machine Learning</code>
 </h3>
 
 <em style="margin-bottom: 30px; font-size: 12px; text-align: center;">Hierarchical Clustering is a machine learning concept that can highlight where there are strong relationships over time between different tickers, sectors or asset classes.</em>
